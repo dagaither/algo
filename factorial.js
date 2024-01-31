@@ -1,7 +1,7 @@
 function factorial(num) {
-  let fact = 1;
+  let product = 1;
   while (num > 1) {
-    fact *= num
+    product *= num
     num -= 1
     }
   return fact
