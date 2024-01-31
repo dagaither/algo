@@ -1,0 +1,19 @@
+{
+  "name": "algo-factorial",
+  "version": "1.0.0",
+  "description": "## Usage",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagaither/algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagaither/algo/issues"
+  },
+  "homepage": "https://github.com/dagaither/algo#readme"
+}
