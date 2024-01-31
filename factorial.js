@@ -4,6 +4,6 @@ function factorial(num) {
     product *= num
     num -= 1
     }
-  return fact
+  return product
 }
 module.exports = factorial;
